@@ -1,0 +1,9 @@
+h1-Heading of the page
+h2-Subheadings of the page
+h3-Messages/Notices
+h4-Important entries
+h5-?
+h6-?
+footer-Contact information
+span-Special effects
+p-Paragraph text
